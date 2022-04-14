@@ -5,7 +5,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.*;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="src\\test\\java\\features\\SauceLabs.feature",
+@CucumberOptions(features="src\\test\\java\\features\\ElearrningPage.feature",
 glue= {"stepDefinition"})
 
 
